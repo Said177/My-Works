@@ -444,3 +444,8 @@ p {
   bottom: 0;
 }
 /* capabilities end */
+/* works start  */
+.works__title{
+  margin-bottom: 30px;
+}
+/* works end */
